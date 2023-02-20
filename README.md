@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lzxiang)](https://github.com/anuraghazra/github-readme-stats)
+
 - 👋 Hi, I’m @lzxiang
 - 👀 I’m interested in coding,
 - 🌱 I’m currently learning k8s
